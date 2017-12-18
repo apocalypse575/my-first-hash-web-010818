@@ -15,8 +15,9 @@ end
 
 def retrieval
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
-
+  #retrieval operates on the shipping_manifest hash to return the value of the
   #your code here!
+  shipping_manifest["oil paintings"]
 end
 
 def adding
