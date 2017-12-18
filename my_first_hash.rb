@@ -25,7 +25,7 @@ def adding
   #Adding Data #adding operates on the shipping_manifest hash to add a key/value pair
   #your code here
   #remember to return the shipping_manifest hash
-  shipping_manifest["muskets"] = 2
-  shipping_manifest["gun powder"] = 4
+  shipping_manifest["pearl necklace"] = 1
+  # shipping_manifest["gun powder"] = 4
   shipping_manifest
 end
